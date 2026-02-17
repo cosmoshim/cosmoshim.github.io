@@ -47,6 +47,16 @@ cv:
         #  - Description 2.
 
     Experience:
+      - company: Pusan National University
+        position: Assistant Professor
+        location: Busan, Korea
+        start_date: 2026
+        end_date: present 
+        #summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+        #highlights:
+        #  - Relativity
+        #  - Description 1.
+      
       - company: Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)
         position: Distinguished Postdoctoral Fellow
         location: Taipei, Taiwan
@@ -64,7 +74,7 @@ cv:
         end_date: 2022
         #highlights:
         #  - Description 1.
-        #  - Description 2.
+        #  - Description 3.
 
 #    Volunteer:
 #      - company: People's Climate March

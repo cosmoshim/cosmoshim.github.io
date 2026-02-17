@@ -1,1 +1,1 @@
-We are looking for group members :)
+Coming soon :)
