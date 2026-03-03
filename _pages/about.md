@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='jsshim0312@gmail.com'>jsshim0312@gmail.com</a>
+subtitle: <a href='jsshim@pnu.ac.kr'>jsshim@pnu.ac.kr</a>
 
 profile:
   align: right
