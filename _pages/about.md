@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor at the [Department of Earth Science Education](https://earth.pusan.ac.kr/earthEng/index...do), [Pusan National University (PNU)](https://www.pusan.ac.kr/eng/Main.do).
+I am an Assistant Professor at the [Department of Earth Science Education](https://earth.pusan.ac.kr/earth/index.do), [Pusan National University (PNU)](https://www.pusan.ac.kr/eng/Main.do).
 
 As a theoretical astrophysicist/cosmologist, my research interest lies in uncovering new physics through the Large-Scale Structure (LSS) of the Universe. My primary research explores the fundamental parity symmetry of the early Universe using novel LSS probes. Beyond symmetry, I develop methods to investigate the nature of cosmic initial conditions and dark matter/energy and provide rigorous tests for theories of gravity on cosmological scales.
 
