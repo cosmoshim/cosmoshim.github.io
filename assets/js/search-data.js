@@ -399,9 +399,19 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-cosmology-group-at-pnu-now-opens",
-          title: 'Cosmology group at PNU now opens :)',
+          title: 'Cosmology group at PNU now opens! :)',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-open-position-s-for-msc-students",
+          title: 'Open position(s) for MSc students',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-open-position-s-for-undergraduate-internship",
+          title: 'Open position(s) for Undergraduate internship',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
