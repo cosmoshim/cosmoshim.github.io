@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Open position(s) for internship (undergrad. students)
-date: 2026-03-03 09:00:00-0400
+title: Open position(s) for Undergraduate internship
+date: 2026-03-14 09:00:00-0400
 inline: false
 related_posts: false
 ---
@@ -14,6 +14,6 @@ We are currently looking for undergraduate students for internship.
     <li>Basic skills in computer programming</li>
     <li>Basic communication and writing skills in English</li>
 </ul>
-Please contact <a href="jsshim0312@gmail.com">jsshim0312@gmail.com</a>, if you are interested in joinin
+Please contact <a href="jsshim@pusan.ac.kr">jsshim@pusan.ac.kr</a>, if you are interested in joining our cosmology group!
 
 ---
