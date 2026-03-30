@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-03-06'
+  last_updated: '2026-03-30'
 papers:
   VW1WIn0AAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Probing cosmology via the clustering of critical points
     year: '2024'
   VW1WIn0AAAAJ:9yKSN-GCB0IC:
-    citations: 4
+    citations: 6
     title: Probing vector chirality in the early Universe
     year: '2025'
   VW1WIn0AAAAJ:IjCSPb-OGe4C:
@@ -46,11 +46,11 @@ papers:
     title: "Forecasts for WEAVE-QSO: 3D clustering and connectivity of critical points with Lyman-\u03B1 tomography"
     year: '2022'
   VW1WIn0AAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 12
     title: Massive gravity wrapped in the cosmic web
     year: '2014'
   VW1WIn0AAAAJ:u5HHmVD_uO8C:
-    citations: 17
+    citations: 18
     title: Identification of cosmic voids as massive cluster counterparts
     year: '2021'
   VW1WIn0AAAAJ:zYLM7Y9cAGgC:
