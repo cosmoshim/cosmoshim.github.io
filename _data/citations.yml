@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-30'
+  last_updated: '2026-04-10'
 papers:
   VW1WIn0AAAAJ:2osOgNQ5qMEC:
-    citations: 6
+    citations: 7
     title: Probing cosmology via the clustering of critical points
     year: '2024'
   VW1WIn0AAAAJ:9yKSN-GCB0IC:
@@ -10,7 +10,7 @@ papers:
     title: Probing vector chirality in the early Universe
     year: '2025'
   VW1WIn0AAAAJ:IjCSPb-OGe4C:
-    citations: 20
+    citations: 21
     title: The clustering of critical points in the evolving cosmic web
     year: '2021'
   VW1WIn0AAAAJ:Tyk-4Ss8FVUC:
@@ -33,16 +33,12 @@ papers:
     citations: 3
     title: Squeezing Full-shape Dynamical Dark Energy Constraints with Galaxy Alignments
     year: '2025'
-  VW1WIn0AAAAJ:YsMSGLbcyi4C:
-    citations: 0
-    title: Cerebral paragonimiasis.
-    year: '1968'
   VW1WIn0AAAAJ:d1gkVwhDpl0C:
     citations: 10
     title: Dark Sector Coupling Bends the Superclusters
     year: '2013'
   VW1WIn0AAAAJ:qjMakFHDy7sC:
-    citations: 23
+    citations: 24
     title: "Forecasts for WEAVE-QSO: 3D clustering and connectivity of critical points with Lyman-\u03B1 tomography"
     year: '2022'
   VW1WIn0AAAAJ:u-x6o8ySG0sC:
@@ -54,6 +50,6 @@ papers:
     title: Identification of cosmic voids as massive cluster counterparts
     year: '2021'
   VW1WIn0AAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: An observational detection of the bridge effect of void filaments
     year: '2015'
