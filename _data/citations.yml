@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-20'
 papers:
   VW1WIn0AAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -49,6 +49,10 @@ papers:
     citations: 18
     title: Identification of cosmic voids as massive cluster counterparts
     year: '2021'
+  VW1WIn0AAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: 'Which filaments matter: the relative scalings of anisotropic infall'
+    year: '2026'
   VW1WIn0AAAAJ:zYLM7Y9cAGgC:
     citations: 6
     title: An observational detection of the bridge effect of void filaments
