@@ -7,6 +7,7 @@ related_posts: false
 ---
 
 We are currently looking for Master course students.
+
 ##### Preferred Background
 
 <ul>
