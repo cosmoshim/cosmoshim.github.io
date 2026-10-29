@@ -27,9 +27,8 @@ jobs:
         run: |
           echo "🔧 Installing dependencies..."
           python -m pip install --upgrade pip
-          # Only what the citation script needs: rendercv in requirements.txt pulls
-          # bibtexparser 2.x, which breaks scholarly (it needs bibtexparser 1.x).
-          pip install scholarly pyyaml
+          # scholarly doesn't cap bibtexparser, and 2.x removed the module it imports.
+          pip install scholarly pyyaml "bibtexparser<2"
 
       - name: Save current citations.yml hash
         id: before
