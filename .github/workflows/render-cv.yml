@@ -24,7 +24,8 @@ jobs:
           python-version: "3.12"
       - name: Install RenderCV
         run: |
-          pip install -r requirements.txt
+          # Pinned: RenderCV 2.7+ rejects the label/image/address fields in _data/cv.yml.
+          pip install "rendercv[full]==2.6"
       - name: RenderCV
         run: |
           cv_file=$(find _data  -maxdepth 1 -type f \( -name "cv.yaml" -o -name "cv.yml" \))
